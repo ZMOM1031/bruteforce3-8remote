@@ -45,7 +45,7 @@ void loop() {
 
   // Button A
   if (butStatA == HIGH) {    // check if the pushbutton is pressed.
-    for (long i = 4380; i < 4500; i++ ){
+    for (long i = 0; i < 65535; i++ ){
       long key = long(i * dfa) + int(192);
       mySwitch.send(key, 24);
     }
