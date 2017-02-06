@@ -1,5 +1,5 @@
 /*
-  4 ^ 8 Remote Control Brute Force Attack
+  Brute Force Attack 4 ^ 8 Remote Control
   
   https://github.com/ZMOM1031/bruteforce3-8remote
   
