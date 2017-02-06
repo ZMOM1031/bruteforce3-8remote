@@ -1,7 +1,5 @@
 # bruteforce3-8remote
 
-----------
-
 Brute Force Attack `3 ^ 8` Remote Control
 
 # 简介 (Introduction)
